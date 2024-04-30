@@ -1,3 +1,6 @@
+Geektrust MetroCard Problem
+
+
 Problem Statement:
 A new metro train has been launched from the Central station to the Airport. It is a non-stop train, which means the train will stop only at the Airport with no intermediate stops. 
 It is also possible to return from the Airport back to the Central station. This is also a non-stop journey.
@@ -10,11 +13,6 @@ MetroCard
  paid by recharging the MetroCard. This auto recharge loads only the required amount of money for the journey and the station collects a 2% service fee for the transaction. 
 
  
-Travel charges
-
- Costs for the journey are based on the passenger's age. It is categorized as below
-
- https://geektrust.sgp1.digitaloceanspaces.com/assets/v2/problems/metro-card/category_table.png![image](https://github.com/arch98/MetroCard/assets/64721861/94d2938b-9893-400d-be4f-75f7c79bf39f)
 
 Goal
  Your task is to build a solution that calculates various travel charges collected at each station and print the collection summary and passenger summary. 
